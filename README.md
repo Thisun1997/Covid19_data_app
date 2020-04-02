@@ -1,4 +1,4 @@
-# first_app
+# Covid19_data_app
 
 A new Flutter project.
 
